@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontak - Cafeteria</title>
+    <link rel="stylesheet" href="../../asset/1.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <a href="beranda.html" class="logo">Cafetaria</a>
+        <div class="menu-toggle" onclick="toggleMenu()">
+            <span></span><span></span><span></span>
+        </div>
+        <ul class="nav-links" id="navLinks">
+            <li><a href="beranda.html">Beranda</a></li>
+            <li><a href="kategori.html">Kategori</a></li>
+            <li><a href="produk.html">Produk</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="kontak.html" class="active">Kontak</a></li>
+            <li><a href="legalitas.html">Legalitas</a></li>
+            <li><a href="loginpelanggan.html">Login Pelanggan</a></li>
+            <li><a href="loginuser.html">Login Admin</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <h2 style="text-align: center; margin-bottom: 30px;">Hubungi Kami</h2>
+        
+        <div class="grid">
+            <!-- Info Kontak -->
+            <div class="card" style="text-align: left;">
+                <h3 style="color: var(--primary); margin-bottom: 15px;">Informasi Outlet</h3>
+                <p><strong>Alamat:</strong> Jl. Kuliner Nusantara No. 45, Kota Kreatif</p>
+                <p><strong>No. Telepon:</strong> 0821-6473-9512</p>
+                <p><strong>Email:</strong> info@cafetariaumkm.com</p>
+                <p><strong>Jam Operasional:</strong> Setiap Hari (10.00 - 22.00 WIB)</p>
+            </div>
+
+            <!-- Form Kontak -->
+            <div style="background: white; padding: 25px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <form action="#" method="POST" onsubmit="alert('Pesan Anda berhasil dikirim!'); return false;">
+                    <div class="form-group">
+                        <label for="nama">Nama Lengkap</label>
+                        <input type="text" id="nama" required placeholder="Masukkan nama Anda">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Alamat Email</label>
+                        <input type="email" id="email" required placeholder="nama@email.com">
+                    </div>
+                    <div class="form-group">
+                        <label for="pesan">Pesan Anda</label>
+                        <textarea id="pesan" rows="4" required placeholder="Tuliskan masukan atau pertanyaan Anda..."></textarea>
+                    </div>
+                    <button type="submit" class="btn" style="width: 100%;">Kirim Pesan</button>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Cafetaria WEB UMKM. All Rights Reserved.</p>
+    </footer>
+
+    <script src="../../asset/1.js"></script>
+</body>
+</html>

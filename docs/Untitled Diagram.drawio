@@ -1,0 +1,174 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="Rbbujq67xIWq8mBTn_fj">
+    <mxGraphModel dx="1012" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oleFCV7mXctVnVpIIzMd-57" parent="1" style="swimlane;html=1;startSize=20;horizontal=0;resizable=0;fontSize=12;transparentBounds=1;groupPadding=20;containerType=tree;childLayout=%5B%7B%22layout%22%3A%22elkTree%22%2C%22config%22%3A%7B%22elk.direction%22%3A%22RIGHT%22%2C%22elk.spacing.nodeNode%22%3A%2240%22%2C%22elk.spacing.edgeNode%22%3A%2220%22%2C%22elk.padding%22%3A%22%5Btop%3D20%2Cleft%3D40%2Cbottom%3D20%2Cright%3D20%5D%22%2C%22corners%22%3A%22rounded%22%2C%22resizeLayoutRoot%22%3Atrue%2C%22resizeNodes%22%3Afalse%7D%7D%5D;" value="das" vertex="1">
+          <mxGeometry height="1770" width="770" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-58" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="manajemen link&amp;nbsp;&lt;div&gt;dan profil bisnis&lt;/div&gt;&lt;div&gt;(web umkn)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72.5" width="150" x="230" y="1203.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-59" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="index.html" vertex="1">
+          <mxGeometry height="40" width="100" x="430" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-61" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-58" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-59" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1240" />
+              <mxPoint x="400" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-63" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-58" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-64" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1240" />
+              <mxPoint x="424.93" y="940" />
+            </Array>
+            <mxPoint x="380" y="900" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-64" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="assets" vertex="1">
+          <mxGeometry height="40" width="107.5" x="426.25" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-65" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-58" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-66" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1240" />
+              <mxPoint x="423.68" y="1038" />
+            </Array>
+            <mxPoint x="380" y="945" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-66" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="docs" vertex="1">
+          <mxGeometry height="40" width="110" x="425" y="1018" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-67" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-58" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-68" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1240" />
+              <mxPoint x="423.68" y="1128" />
+            </Array>
+            <mxPoint x="380" y="995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-68" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="database" vertex="1">
+          <mxGeometry height="40" width="110" x="425" y="1108" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-69" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-58" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-70" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1240" />
+              <mxPoint x="400" y="1249" />
+            </Array>
+            <mxPoint x="380" y="1045" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-70" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="landing pages" vertex="1">
+          <mxGeometry height="40" width="120" x="420" y="1229" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-71" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-58" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-72" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1240" />
+              <mxPoint x="418.68" y="1435" />
+            </Array>
+            <mxPoint x="380" y="1095" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-72" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="zona user" vertex="1">
+          <mxGeometry height="40" width="120" x="420" y="1415" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-74" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-58" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-75" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1240" />
+              <mxPoint x="418.68" y="1620" />
+            </Array>
+            <mxPoint x="380" y="1065" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-75" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="zona pelanggan" vertex="1">
+          <mxGeometry height="40" width="120" x="420" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-86" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-64" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-87" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="940" />
+              <mxPoint x="560" y="940" />
+            </Array>
+            <mxPoint x="380" y="1100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-87" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="js&lt;div&gt;css&lt;/div&gt;&lt;div&gt;img&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="120" x="600" y="912.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-91" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-66" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-92" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1038" />
+              <mxPoint x="560" y="1038" />
+            </Array>
+            <mxPoint x="380" y="1100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-92" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="treedigram&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;modul&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="1008" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-95" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-68" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-96" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1128" />
+              <mxPoint x="560" y="1128" />
+            </Array>
+            <mxPoint x="380" y="1109" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="cafeteria zsaskia.sql" link="cafeteria zsaskia.sql" id="oleFCV7mXctVnVpIIzMd-96">
+          <mxCell parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="110" x="605" y="1108" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-103" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-70" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-104" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1249" />
+              <mxPoint x="560" y="1249" />
+            </Array>
+            <mxPoint x="540" y="1229" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="beranda .html.&lt;div&gt;kategori.html&lt;/div&gt;&lt;div&gt;detailproduk.html&lt;/div&gt;&lt;div&gt;fag.html&lt;/div&gt;&lt;div&gt;kontak.html&lt;/div&gt;&lt;div&gt;login pelanggan.html&lt;/div&gt;&lt;div&gt;registerpelanggan.html&lt;/div&gt;&lt;div&gt;loginuser.html&lt;/div&gt;" link="beranda.html" id="oleFCV7mXctVnVpIIzMd-104">
+          <mxCell parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="122" width="120" x="600" y="1188" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-113" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-72" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-114" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1435" />
+              <mxPoint x="560" y="1435" />
+            </Array>
+            <mxPoint x="380" y="1134" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-114" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="- dashboard.html&lt;div&gt;- kelolauser.html&lt;/div&gt;&lt;div&gt;- kelolapelanggan.html&lt;/div&gt;&lt;div&gt;- kelolakategori.html&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- kelolaproduk.html&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- kelolapenjualan.html&lt;/div&gt;&lt;div&gt;- keloladiskon.html&lt;/div&gt;&lt;div&gt;- laporan.html&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="140" x="590" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-115" edge="1" parent="oleFCV7mXctVnVpIIzMd-57" source="oleFCV7mXctVnVpIIzMd-75" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" target="oleFCV7mXctVnVpIIzMd-116" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1620" />
+            </Array>
+            <mxPoint x="380" y="1197" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oleFCV7mXctVnVpIIzMd-116" parent="oleFCV7mXctVnVpIIzMd-57" style="whiteSpace=wrap;html=1;" value="dashboardpelanggan.html&lt;div&gt;riwayatpembelian.html&lt;/div&gt;&lt;div&gt;laporan.html&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="160" x="580" y="1560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

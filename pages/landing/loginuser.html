@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login User Admin - Cafeteria</title>
+    <link rel="stylesheet" href="../../asset/1.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <a href="beranda.html" class="logo">Cafetaria</a>
+        <div class="menu-toggle" onclick="toggleMenu()">
+            <span></span><span></span><span></span>
+        </div>
+        <ul class="nav-links" id="navLinks">
+            <li><a href="beranda.html">Beranda</a></li>
+            <li><a href="kategori.html">Kategori</a></li>
+            <li><a href="produk.html">Produk</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="kontak.html">Kontak</a></li>
+            <li><a href="legalitas.html">Legalitas</a></li>
+            <li><a href="loginpelanggan.html">Login Pelanggan</a></li>
+            <li><a href="loginuser.html" class="active">Login Admin</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <div class="form-container" style="border-top: 4px solid var(--dark);">
+            <h2 style="text-align: center; margin-bottom: 5px;">Login Internal / Admin</h2>
+            <p style="text-align: center; font-size: 12px; color: #888; margin-bottom: 20px;">Khusus manajemen & pengelola Cafetaria</p>
+            
+            <!-- Simulasi masuk ke dashboard admin -->
+            <form action="../admin/dashboarduser.html" method="GET">
+                <div class="form-group">
+                    <label for="username">Kode User / Email</label>
+                    <input type="text" id="username" required placeholder="Masukkan kode pegawai">
+                </div>
+                <div class="form-group">
+                    <label for="password">Sandi Pengaman</label>
+                    <input type="password" id="password" required placeholder="Masukkan sandi">
+                </div>
+                <div class="form-group">
+                    <label for="role">Hak Akses</label>
+                    <select id="role" required>
+                        <option value="admin">Administrator</option>
+                        <option value="owner">Pemilik UMKM</option>
+                        <option value="kasir">Kasir Outlet</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn" style="width: 100%; background: var(--dark);">Masuk Sistem</button>
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Cafetaria WEB UMKM. All Rights Reserved.</p>
+    </footer>
+
+    <script src="../../asset/1.js"></script>
+</body>
+</html>
